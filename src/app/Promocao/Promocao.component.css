@@ -1,0 +1,23 @@
+.all-promocao {
+    display: flex;
+    justify-content: center;
+    margin: 15px auto;
+}
+
+.all-promocao div {
+    border: none;
+    border-radius: 0;
+    height: 51px;
+    border-right: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+}
+
+.all-promocao div:nth-child(1) {
+    border-left: none;
+
+}
+
+.all-promocao div:nth-child(4) {
+    border-right: none;
+
+}
