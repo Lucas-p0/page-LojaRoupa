@@ -1,3 +1,7 @@
 .navbar {
     background-color: #000;
 }
+.navbar svg{
+    color: #fff;
+    margin-left:10px;
+}
